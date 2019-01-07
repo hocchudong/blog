@@ -9,13 +9,14 @@ tags: [Tin tức, news]
 type: Document
 ---
 Sau một thời gian dài, cuối cùng thì blog của nhóm Học chủ động - HCD cũng đã lựa chọn được nền tảng để viết các bài viết. Chúng tôi rất lấy làm vui mừng vì đây là bước phát triển tiếp theo để đưa Học chủ động được rộng khắp hơn.
-## Mục tiêu của việc làm blog cho Học chủ động.
+## Đặc điểm của việc làm blog cho Học chủ động.
 
 Đặt điểm của blog HCD:
 - Nền tảng chuyên để tạo các trang blog là `jekyll`
 - Template này được phát triển dựa trên template của `https://github.com/CloudCannon/base-jekyll-template`
 - Chúng tôi đã sửa đổi để phù hợp với các yêu cầu của một blog, ví dụ như tính năng share, comment, thông kê theo tác, hiện thỉ tóm lược.
 - Blog có các đặc điểm của nền tảng jekyll, cụ thể là:
+
 ```sh
 - Tìm kiếm được theo từ khóa để tiện tra cứu.
 - Chia theo chuyên mục như linux, python, OpenStack, Container ...
