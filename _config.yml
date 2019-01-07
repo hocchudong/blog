@@ -3,7 +3,7 @@
 
 title: Blog HCD
 url: "https://blog.hocchudong.com/"
-baseurl: 
+baseurl: ""
 google_analytics_key:
 disqus_shortname: congto
 newsletter_action:
