@@ -16,6 +16,7 @@ Sau một thời gian dài, cuối cùng thì blog của nhóm Học chủ độ
 - Template này được phát triển dựa trên template của `https://github.com/CloudCannon/base-jekyll-template`
 - Chúng tôi đã sửa đổi để phù hợp với các yêu cầu của một blog, ví dụ như tính năng share, comment, thông kê theo tác, hiện thỉ tóm lược.
 - Blog có các đặc điểm của nền tảng jekyll, cụ thể là:
+
 ```sh
 - Tìm kiếm được theo từ khóa để tiện tra cứu.
 - Chia theo chuyên mục như linux, python, OpenStack, Container ...
