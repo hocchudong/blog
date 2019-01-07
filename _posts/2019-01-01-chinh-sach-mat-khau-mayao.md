@@ -1,26 +1,28 @@
 ---
-date: 2019-01-01
-title: Mật khẩu của máy ảo
+date: 2019-01-07
+title: Giới thiệu blog Học chủ động
 categories:
-  - Policy
-description: Mô tả các chính sách về mật khẩu khoản máy ảo
-author: huytm
-tags: [web, jekyll]
+  - News
+description: Thông tin về việc thực hiện blog học chủ động 
+author: congto
+tags: [Tin tức, news]
 type: Document
 ---
-Tài khoản của máy ảo được hệ thống tự động sinh ra và đáp ứng các chính sách dưới đây.
+Sau một thời gian dài, cuối cùng thì blog của nhóm Học chủ động cũng đã lựa chọn được nền tảng để viết các bài viết. Chúng tôi rất lấy làm vui mừng vì đây là bước phát triển tiếp theo để đưa Học chủ động được rộng khắp hơn.
+## Mục tiêu của việc làm blog cho Học chủ động.
 
-## Chính sách mật khẩu của máy ảo
+Blog của nhóm Học chủ động được xây dựng dựa trên một số điều kiện sau.
 
-Các chính sách này được áp dụng để đảm bảo an toàn cho máy ảo của khách hàng.
-```
-- Có độ dài từ 08 ký tự trở lên
-- Có chứa ít nhất một ký tự viết hoa
-- Có chứa ít nhất một ký tự số
-- Có chứa ít nhất một ký tự đặc biệt.
-```
+- Nền tảng chuyên để tạo các trang blog là `jekyll`
+- Template này được phát triển dựa trên template của `https://github.com/CloudCannon/base-jekyll-template`
+- Chúng tôi đã sửa đổi để phù hợp với các yêu cầu của một blog, ví dụ như tính năng share, comment, thông kê theo tác, hiện thỉ tóm lược.
 
-Người dùng lưu ý khi đổi mật khẩu cần đảm bảo đáp ứng chính sách ở trên khi chủ động thay đổi.
+Blog của nhóm Học chủ động dùng để
 
-## Cam kết của nhà cung cấp dịch vụ
-Chúng tôi cam kết đảm bảo an toàn và không tự ý thay đổi mật khẩu của khách hàng.
+- Ghi chép lại các tài liệu mà các thành viên trong nhóm đã tìm hiểu.
+- Nơi tra cứu lại hoặc tham khảo các kiến thức về linux, network, openstack và rất nhiều thứ khác trong tương lai.
+- Việc đóng góp vào blog của Học chủ động là hoàn toàn tự nguyện.
+- Và việc chia sẻ các link cuuar Học chủ động cũng như thế, nếu có ý định thương mại nó hãy quay lại đóng góp bằng cách viết thêm một ghi chép mà bạn tâm đắc.
+
+## Cám ơn
+Mọi đóng góp, sự ghé thăm của bạn sẽ là động lực cũng như tạo thêm tri thức cho chính bạn và tương lai của thế giới.
