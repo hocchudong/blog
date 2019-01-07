@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Blog HCD
+title: HCDBlog
 url: "https://blog.hocchudong.com/"
 baseurl: ""
 google_analytics_key:
@@ -10,7 +10,7 @@ newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Trang hỗ trợ dành cho cloud365.vn.
+description: Trang blog của nhóm HCĐ.
 author:
   name:
   email:
