@@ -22,7 +22,7 @@ Blog của nhóm Học chủ động dùng để
 - Ghi chép lại các tài liệu mà các thành viên trong nhóm đã tìm hiểu.
 - Nơi tra cứu lại hoặc tham khảo các kiến thức về linux, network, openstack và rất nhiều thứ khác trong tương lai.
 - Việc đóng góp vào blog của Học chủ động là hoàn toàn tự nguyện.
-- Và việc chia sẻ các link cuuar Học chủ động cũng như thế, nếu có ý định thương mại nó hãy quay lại đóng góp bằng cách viết thêm một ghi chép mà bạn tâm đắc.
+- Và việc chia sẻ các link của Học chủ động cũng như thế, nếu có ý định thương mại nó hãy quay lại đóng góp bằng cách viết thêm một ghi chép mà bạn tâm đắc.
 
 ## Cám ơn
 Mọi đóng góp, sự ghé thăm của bạn sẽ là động lực cũng như tạo thêm tri thức cho chính bạn và tương lai của thế giới.
