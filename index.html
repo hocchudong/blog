@@ -13,7 +13,7 @@
     </a>
 
     <p class="i-right text_small">
-      {{ post.date | timeago }}
+      {{- post.date | date: "%B %d, %Y" -}}
     </p></br>
 
 	{% if post.author %}
