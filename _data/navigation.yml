@@ -6,6 +6,7 @@
   link: /faq/
 - name: Home
   link: https://hocchudong.com
+  new_window: true
 - name: Contact
   link: #
 - name: Archive
