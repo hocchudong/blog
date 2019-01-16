@@ -5,7 +5,7 @@ title: HCDBlog
 url: "https://blog.hocchudong.com/"
 enforce_ssl: blog.hocchudong.com
 baseurl: ""
-google_analytics_key:
+google_analytics_key:UA-96533702-2
 disqus_shortname: congto
 newsletter_action:
 
